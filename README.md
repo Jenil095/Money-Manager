@@ -13,7 +13,6 @@
 </div>
 <style>
   .image-container{
-    display:flex,
-    justify:center
+    display:flex
   }
 </style>
