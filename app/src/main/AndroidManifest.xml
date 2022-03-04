@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.MoneyManager">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/money_bag"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/money_bag"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+
+        <activity android:name="com.example.MoneyManager.testLineChartMainActivity"/>
+
+        <activity
+            android:name="com.example.MoneyManager.budget_categories.activities.AddingBudgetCategoryActivity"
+            android:label="@string/new_budget_category"/>
+
+        <activity
+            android:name="com.example.MoneyManager.budgetplanner.activities.PlanInfoActivity"
+            android:label="@string/plan_info"/>
+
+        <activity
+            android:name="com.example.MoneyManager.transactions.activities.ListingCategoryTransactionsActivity"
+            android:label="@string/your_expenses" />
+
+        <activity
+            android:name="com.example.MoneyManager.transactions.activities.AddingTransactionActivity"
+            android:label="@string/new_transaction" />
+
+        <activity
+            android:name="com.example.MoneyManager.mainactivity.MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+    </application>
+
+</manifest>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/abc/AndroidStudioProjects/Money Manager/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/abc/AndroidStudioProjects/Money-Manager-App/app/src/main/res/layout/activity_add_transaction.xml" value="0.1796875" />
+        <entry key="..\:/Users/abc/AndroidStudioProjects/Money-Manager-App/app/src/main/res/layout/activity_adding_budget_category.xml" value="0.1796875" />
+        <entry key="..\:/Users/abc/AndroidStudioProjects/Money-Manager-App/app/src/main/res/layout/activity_category_transaction.xml" value="0.1796875" />
+        <entry key="..\:/Users/abc/AndroidStudioProjects/Money-Manager-App/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/abc/AndroidStudioProjects/Money-Manager-App/app/src/main/res/layout/activity_plan_info.xml" value="0.1796875" />
+        <entry key="..\:/Users/abc/AndroidStudioProjects/Money-Manager-App/app/src/main/res/layout/activity_test_line_chart_main.xml" value="0.1796875" />
+        <entry key="..\:/Users/abc/AndroidStudioProjects/Money-Manager-App/app/src/main/res/layout/app_bar_main.xml" value="0.1796875" />
+        <entry key="..\:/Users/abc/AndroidStudioProjects/Money-Manager-App/app/src/main/res/layout/content_main.xml" value="0.1796875" />
+        <entry key="..\:/Users/abc/AndroidStudioProjects/Money-Manager-App/app/src/main/res/layout/fragment_adding_income.xml" value="0.1796875" />
+        <entry key="..\:/Users/abc/AndroidStudioProjects/Money-Manager-App/app/src/main/res/layout/fragment_budget_analysis.xml" value="0.1796875" />
+        <entry key="..\:/Users/abc/AndroidStudioProjects/Money-Manager-App/app/src/main/res/layout/fragment_budget_category_info.xml" value="0.1796875" />
+        <entry key="..\:/Users/abc/AndroidStudioProjects/Money-Manager-App/app/src/main/res/layout/fragment_budget_manager.xml" value="0.1796875" />
+        <entry key="..\:/Users/abc/AndroidStudioProjects/Money-Manager-App/app/src/main/res/layout/fragment_budget_planner.xml" value="0.1796875" />
+        <entry key="..\:/Users/abc/AndroidStudioProjects/Money-Manager-App/app/src/main/res/layout/fragment_home.xml" value="0.1796875" />
+        <entry key="..\:/Users/abc/AndroidStudioProjects/Money-Manager-App/app/src/main/res/layout/fragment_monthly_expenses_analysis.xml" value="0.1796875" />
+        <entry key="..\:/Users/abc/AndroidStudioProjects/Money-Manager-App/app/src/main/res/layout/list_item_icon.xml" value="0.1796875" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
