@@ -1,5 +1,7 @@
 # Money-Manager
 
+<img src="D:\App\Money Manager Images" width="100" height="100">
+
 ![Home](https://user-images.githubusercontent.com/77386237/156748222-08726cf0-7b2f-4f59-b17c-9abcb35f6fb5.jpg)
 
 ![Wallet and Income](https://user-images.githubusercontent.com/77386237/156748686-49ac2d46-b1db-4fd0-b115-384fa14b51e0.jpg)
