@@ -1,7 +1,7 @@
 # Money-Manager
 
 <div class="image-container">
-  <img src="https://user-images.githubusercontent.com/77386237/156748222-08726cf0-7b2f-4f59-b17c-9abcb35f6fb5.jpg" width="200" height="400">
+  <img src="https://user-images.githubusercontent.com/77386237/160554868-4b587cf4-6d68-4934-bf5e-9c100626dba4.jpg" width="200" height="400">
   <img src="https://user-images.githubusercontent.com/77386237/156748686-49ac2d46-b1db-4fd0-b115-384fa14b51e0.jpg" width="200" height="400">
   <img src="https://user-images.githubusercontent.com/77386237/156748244-1cfa1795-96e8-4b5b-aa7b-d5eeac26ebcf.jpg" width="200" height="400">
   <img src="https://user-images.githubusercontent.com/77386237/156748424-c10f2944-144b-4317-a781-5f1c953d9b06.jpg" width="200" height="400">
